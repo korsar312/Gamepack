@@ -1,0 +1,58 @@
+import { StylesInterface } from "../../Core/Modules/Styles/Styles.interface";
+
+export const ColorList: StylesInterface.TColor = {
+	WHITE_1: { rosneft: "#ffffff", bashneft: "#ffffff" },
+	WHITE_2: { rosneft: "#f1f1f1", bashneft: "#f1f1f1" },
+	WHITE_3: { rosneft: "#f0f0f0", bashneft: "#f0f0f0" },
+	WHITE_4: { rosneft: "#ededed", bashneft: "#ededed" },
+	WHITE_5: { rosneft: "#eaeaea", bashneft: "#eaeaea" },
+	WHITE_6: { rosneft: "#e7e5e5", bashneft: "#e7e5e5" },
+	WHITE_7: { rosneft: "#e8e8e8", bashneft: "#e8e8e8" },
+	WHITE_8: { rosneft: "#c8d1de", bashneft: "#c8d1de" },
+	WHITE_9: { rosneft: "#dadada", bashneft: "#dadada" },
+	WHITE_10: { rosneft: "#d3d2d2", bashneft: "#d3d2d2" },
+	WHITE_11: { rosneft: "#e1e1e1", bashneft: "#e1e1e1" },
+	WHITE_12: { rosneft: "#c6c6c6", bashneft: "#c6c6c6" },
+	WHITE_13: { rosneft: "#B5B5B5", bashneft: "#B5B5B5" },
+	WHITE_14: { rosneft: "#a4a4a4", bashneft: "#a4a4a4" },
+
+	BLACK_1: { rosneft: "#000000", bashneft: "#000000" },
+	BLACK_2: { rosneft: "#2d2d2d", bashneft: "#2d2d2d" },
+	BLACK_3: { rosneft: "#333333", bashneft: "#333333" },
+	BLACK_4: { rosneft: "#4d4d4d", bashneft: "#4d4d4d" },
+	BLACK_5: { rosneft: "#545454", bashneft: "#545454" },
+	BLACK_6: { rosneft: "#595959", bashneft: "#595959" },
+	BLACK_7: { rosneft: "#666666", bashneft: "#666666" },
+	BLACK_8: { rosneft: "#6c6c6c", bashneft: "#6c6c6c" },
+
+	RED_1: { rosneft: "#d32f2f", bashneft: "#d32f2f" },
+	RED_2: { rosneft: "#bf1e40", bashneft: "#bf1e40" },
+	RED_3: { rosneft: "#db0b0a", bashneft: "#db0b0a" },
+
+	YELLOW_1: { rosneft: "#fffad1", bashneft: "#fffad1" },
+	YELLOW_2: { rosneft: "#ffe710", bashneft: "#ffe710" },
+	YELLOW_3: { rosneft: "#ffe605", bashneft: "#ffe605" },
+	YELLOW_4: { rosneft: "#FED208", bashneft: "#FED208" },
+	YELLOW_5: { rosneft: "#fdc701", bashneft: "#fdc701" },
+	YELLOW_6: { rosneft: "#ffcc00", bashneft: "#ffcc00" },
+
+	GREEN_1: { rosneft: "#c9dca4", bashneft: "#c9dca4" },
+	GREEN_2: { rosneft: "#4bcc36", bashneft: "#4bcc36" },
+	GREEN_3: { rosneft: "#2eb971", bashneft: "#00B45A" },
+	GREEN_4: { rosneft: "#219653", bashneft: "#219653" },
+	GREEN_5: { rosneft: "#0a9d3b", bashneft: "#0a9d3b" },
+	GREEN_6: { rosneft: "#0F8E04", bashneft: "#0F8E04" },
+	GREEN_7: { rosneft: "#006837", bashneft: "#006837" },
+
+	BLUE_1: { rosneft: "#36a8cc", bashneft: "#36a8cc" },
+	BLUE_2: { rosneft: "#2d9cdb", bashneft: "#2d9cdb" },
+
+	MAIN_COLOR: { rosneft: "#FFCC00", bashneft: "#00B45A" },
+	INVERT_MAIN_COLOR: { rosneft: "#000000", bashneft: "#FFFFFF" },
+	RE_INVERT_MAIN_COLOR: { rosneft: "#FFFFFF", bashneft: "#000000" },
+	RE_INVERT_MAIN_COLOR_2: { rosneft: "#FFFFFF", bashneft: "#333333" },
+	TRK_COLOR: { rosneft: "#333333", bashneft: "#E7E7E7" },
+	TRK_NUM_COLOR: { rosneft: "#333333", bashneft: "#CBCBCB" },
+	MAIN_TEXT_COLOR: { rosneft: "#FBCE20", bashneft: "#D32F2F" },
+	SUB_MAIN_TEXT_COLOR: { rosneft: "#4D4D4D", bashneft: "#C8006E" },
+};
